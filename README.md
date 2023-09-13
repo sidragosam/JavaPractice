@@ -20,12 +20,12 @@ Simple Java Practice.
 
 ## Largest Element Class
 
-* findLargest(arr)- Finds the largest element in an array of integers.
+* findLargest(arr) - Finds the largest element in an array of integers.
 
 ## Palindrome Checker Class
 
-* isPalindrome(str)- Checks if a given string is a palindrome (reads the same forwards and backwards).
+* isPalindrome(str) - Checks if a given string is a palindrome (reads the same forwards and backwards).
 
 ## String Reverser Class
 
-* reverse(str)- Reverses a given string.
+* reverse(str) - Reverses a given string.
