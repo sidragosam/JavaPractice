@@ -29,3 +29,24 @@ Simple Java Practice.
 ## String Reverser Class
 
 * reverse(str) - Reverses a given string.
+
+## Output should look like this
+
+```java
+Word: Ich bin eine Katze.
+Reversed: .eztaK enie nib hcI
+_-------------------------------_
+Array: [12, 45, 78, 23, 56]
+Largest: 78
+_-------------------------------_
+Is it a palindrome? true
+Is it a palindrome? false
+_-------------------------------_
+Factorial of 5 is 120
+_-------------------------------_
+The 13th Fibonacci number is 233
+_-------------------------------_
+Are "listen" and "silent" anagrams? true
+_-------------------------------_
+Duplicate elements in the array: [2, 5, 6]
+```
